@@ -17,7 +17,7 @@ h1{
   box-sizing: border-box;
   box-shadow: 5px 5px gainsboro;
   background-color: lightcyan;
-  height: 1000px;
+  height: 1300px;
   text-align: center;
 }
 .right{
@@ -27,14 +27,14 @@ h1{
   box-sizing: border-box;
   box-shadow: 5px 5px gainsboro;
   background-color: lightcyan;
-  height: 1000px;
+  height: 1300px;
 }
 span{
   font-family: cursive;
   font-size: 150%;
 }
 .footer{
-  top: 1110px;
+  top: 1410px;
   position: absolute;
   width: 92%;
   background-color: lightcyan;
@@ -58,6 +58,6 @@ img.one{
   /* position: absolute; */
 }
 body{
-  /* font-family: TimesNewRoman; */
+  font-family: Recoleta,Georgia,"Times New Roman",Times,serif;
   font-size: 115%;
 }
